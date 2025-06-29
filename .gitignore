@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+.env/
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore all CSVs by default...
+*.csv
+
+# ...except FINAL exports needed for dashboarding/Tableau, which you want to keep!
+!exports/
+!exports/department_sales.csv
+!exports/turnover_by_product.csv
+!exports/sales_actual_forecast_combined_clean.csv
+!exports/monthly_sales_personal_care.csv
+!exports/department_monthly_sales.csv
+
+# Ignore raw data files in root
+aisle.csv
+departments.csv
+orders.csv
+products.csv
