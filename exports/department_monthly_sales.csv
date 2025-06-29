@@ -1,0 +1,2101 @@
+department,year_month,quantity
+alcohol,2015-01,2599
+alcohol,2015-02,2197
+alcohol,2015-03,2401
+alcohol,2015-04,2692
+alcohol,2015-05,2418
+alcohol,2015-06,2695
+alcohol,2015-07,2771
+alcohol,2015-08,2711
+alcohol,2015-09,2533
+alcohol,2015-10,2256
+alcohol,2015-11,2219
+alcohol,2015-12,2732
+alcohol,2016-01,2506
+alcohol,2016-02,2329
+alcohol,2016-03,2289
+alcohol,2016-04,2406
+alcohol,2016-05,2348
+alcohol,2016-06,2374
+alcohol,2016-07,2231
+alcohol,2016-08,2712
+alcohol,2016-09,2337
+alcohol,2016-10,2721
+alcohol,2016-11,2565
+alcohol,2016-12,2442
+alcohol,2017-01,2812
+alcohol,2017-02,2167
+alcohol,2017-03,2317
+alcohol,2017-04,2417
+alcohol,2017-05,2802
+alcohol,2017-06,2248
+alcohol,2017-07,2361
+alcohol,2017-08,2280
+alcohol,2017-09,2361
+alcohol,2017-10,2576
+alcohol,2017-11,2814
+alcohol,2017-12,2333
+alcohol,2018-01,2310
+alcohol,2018-02,2195
+alcohol,2018-03,2604
+alcohol,2018-04,2604
+alcohol,2018-05,2422
+alcohol,2018-06,2424
+alcohol,2018-07,2379
+alcohol,2018-08,2545
+alcohol,2018-09,2382
+alcohol,2018-10,2602
+alcohol,2018-11,2492
+alcohol,2018-12,2536
+alcohol,2019-01,2720
+alcohol,2019-02,2245
+alcohol,2019-03,2802
+alcohol,2019-04,2651
+alcohol,2019-05,2700
+alcohol,2019-06,2350
+alcohol,2019-07,2537
+alcohol,2019-08,2679
+alcohol,2019-09,2652
+alcohol,2019-10,2592
+alcohol,2019-11,2253
+alcohol,2019-12,2552
+alcohol,2020-01,2546
+alcohol,2020-02,2443
+alcohol,2020-03,2216
+alcohol,2020-04,2571
+alcohol,2020-05,2489
+alcohol,2020-06,2863
+alcohol,2020-07,2558
+alcohol,2020-08,2286
+alcohol,2020-09,2477
+alcohol,2020-10,2575
+alcohol,2020-11,2417
+alcohol,2020-12,2766
+alcohol,2021-01,2296
+alcohol,2021-02,2084
+alcohol,2021-03,2360
+alcohol,2021-04,2500
+alcohol,2021-05,2572
+alcohol,2021-06,2255
+alcohol,2021-07,2841
+alcohol,2021-08,2574
+alcohol,2021-09,2301
+alcohol,2021-10,2565
+alcohol,2021-11,2568
+alcohol,2021-12,2503
+alcohol,2022-01,2664
+alcohol,2022-02,2424
+alcohol,2022-03,2504
+alcohol,2022-04,2648
+alcohol,2022-05,2598
+alcohol,2022-06,2716
+alcohol,2022-07,2686
+alcohol,2022-08,2458
+alcohol,2022-09,2508
+alcohol,2022-10,2505
+alcohol,2022-11,2241
+alcohol,2022-12,2599
+alcohol,2023-01,2653
+alcohol,2023-02,2278
+alcohol,2023-03,2527
+alcohol,2023-04,651
+babies,2015-01,2471
+babies,2015-02,2512
+babies,2015-03,2451
+babies,2015-04,2554
+babies,2015-05,2910
+babies,2015-06,2422
+babies,2015-07,2737
+babies,2015-08,2340
+babies,2015-09,2138
+babies,2015-10,2431
+babies,2015-11,2549
+babies,2015-12,2182
+babies,2016-01,2454
+babies,2016-02,2560
+babies,2016-03,2712
+babies,2016-04,2884
+babies,2016-05,2546
+babies,2016-06,2548
+babies,2016-07,2583
+babies,2016-08,2608
+babies,2016-09,2525
+babies,2016-10,2576
+babies,2016-11,2483
+babies,2016-12,2533
+babies,2017-01,2470
+babies,2017-02,2478
+babies,2017-03,2479
+babies,2017-04,2765
+babies,2017-05,2478
+babies,2017-06,2485
+babies,2017-07,2394
+babies,2017-08,2553
+babies,2017-09,2418
+babies,2017-10,2420
+babies,2017-11,2422
+babies,2017-12,2357
+babies,2018-01,2448
+babies,2018-02,2105
+babies,2018-03,2730
+babies,2018-04,2660
+babies,2018-05,2345
+babies,2018-06,2496
+babies,2018-07,2339
+babies,2018-08,2563
+babies,2018-09,2618
+babies,2018-10,2414
+babies,2018-11,2570
+babies,2018-12,2410
+babies,2019-01,2427
+babies,2019-02,2526
+babies,2019-03,2347
+babies,2019-04,2545
+babies,2019-05,2492
+babies,2019-06,2452
+babies,2019-07,2479
+babies,2019-08,2581
+babies,2019-09,2757
+babies,2019-10,2572
+babies,2019-11,2621
+babies,2019-12,2837
+babies,2020-01,2527
+babies,2020-02,2584
+babies,2020-03,2521
+babies,2020-04,2511
+babies,2020-05,2352
+babies,2020-06,2706
+babies,2020-07,2923
+babies,2020-08,2708
+babies,2020-09,2744
+babies,2020-10,2607
+babies,2020-11,2710
+babies,2020-12,2624
+babies,2021-01,2565
+babies,2021-02,2205
+babies,2021-03,2472
+babies,2021-04,2520
+babies,2021-05,2865
+babies,2021-06,2700
+babies,2021-07,2541
+babies,2021-08,2457
+babies,2021-09,2653
+babies,2021-10,2475
+babies,2021-11,2388
+babies,2021-12,2953
+babies,2022-01,2709
+babies,2022-02,2603
+babies,2022-03,2638
+babies,2022-04,2499
+babies,2022-05,2612
+babies,2022-06,2635
+babies,2022-07,2257
+babies,2022-08,2620
+babies,2022-09,2412
+babies,2022-10,2349
+babies,2022-11,2663
+babies,2022-12,2695
+babies,2023-01,2873
+babies,2023-02,2482
+babies,2023-03,2631
+babies,2023-04,431
+bakery,2015-01,3658
+bakery,2015-02,3656
+bakery,2015-03,3678
+bakery,2015-04,3513
+bakery,2015-05,3551
+bakery,2015-06,3389
+bakery,2015-07,3598
+bakery,2015-08,3705
+bakery,2015-09,3533
+bakery,2015-10,3460
+bakery,2015-11,3320
+bakery,2015-12,3608
+bakery,2016-01,3555
+bakery,2016-02,3627
+bakery,2016-03,3583
+bakery,2016-04,3801
+bakery,2016-05,3639
+bakery,2016-06,3500
+bakery,2016-07,3404
+bakery,2016-08,3369
+bakery,2016-09,3242
+bakery,2016-10,3147
+bakery,2016-11,3427
+bakery,2016-12,3556
+bakery,2017-01,3477
+bakery,2017-02,3234
+bakery,2017-03,3455
+bakery,2017-04,3943
+bakery,2017-05,3594
+bakery,2017-06,3725
+bakery,2017-07,3329
+bakery,2017-08,3636
+bakery,2017-09,3615
+bakery,2017-10,3702
+bakery,2017-11,3309
+bakery,2017-12,3727
+bakery,2018-01,3580
+bakery,2018-02,3094
+bakery,2018-03,3374
+bakery,2018-04,3453
+bakery,2018-05,3599
+bakery,2018-06,3579
+bakery,2018-07,3551
+bakery,2018-08,3744
+bakery,2018-09,3496
+bakery,2018-10,3601
+bakery,2018-11,3379
+bakery,2018-12,3621
+bakery,2019-01,3539
+bakery,2019-02,3044
+bakery,2019-03,3614
+bakery,2019-04,3640
+bakery,2019-05,3299
+bakery,2019-06,3569
+bakery,2019-07,3531
+bakery,2019-08,3462
+bakery,2019-09,3794
+bakery,2019-10,3259
+bakery,2019-11,3384
+bakery,2019-12,3818
+bakery,2020-01,3927
+bakery,2020-02,3312
+bakery,2020-03,3535
+bakery,2020-04,3703
+bakery,2020-05,3698
+bakery,2020-06,3714
+bakery,2020-07,3627
+bakery,2020-08,3594
+bakery,2020-09,3486
+bakery,2020-10,3814
+bakery,2020-11,4010
+bakery,2020-12,3915
+bakery,2021-01,3549
+bakery,2021-02,3066
+bakery,2021-03,3430
+bakery,2021-04,3505
+bakery,2021-05,3705
+bakery,2021-06,3195
+bakery,2021-07,3636
+bakery,2021-08,3445
+bakery,2021-09,3272
+bakery,2021-10,3212
+bakery,2021-11,3580
+bakery,2021-12,3661
+bakery,2022-01,3566
+bakery,2022-02,2895
+bakery,2022-03,3499
+bakery,2022-04,3765
+bakery,2022-05,3716
+bakery,2022-06,3198
+bakery,2022-07,3463
+bakery,2022-08,3605
+bakery,2022-09,3370
+bakery,2022-10,3822
+bakery,2022-11,3626
+bakery,2022-12,3545
+bakery,2023-01,4017
+bakery,2023-02,2969
+bakery,2023-03,3263
+bakery,2023-04,806
+beverages,2015-01,10734
+beverages,2015-02,9176
+beverages,2015-03,10664
+beverages,2015-04,10275
+beverages,2015-05,10168
+beverages,2015-06,10252
+beverages,2015-07,10502
+beverages,2015-08,9842
+beverages,2015-09,10230
+beverages,2015-10,10501
+beverages,2015-11,9862
+beverages,2015-12,9669
+beverages,2016-01,10641
+beverages,2016-02,9855
+beverages,2016-03,10655
+beverages,2016-04,10185
+beverages,2016-05,10659
+beverages,2016-06,10335
+beverages,2016-07,10850
+beverages,2016-08,10792
+beverages,2016-09,9984
+beverages,2016-10,11095
+beverages,2016-11,10166
+beverages,2016-12,10054
+beverages,2017-01,10036
+beverages,2017-02,9296
+beverages,2017-03,10794
+beverages,2017-04,10376
+beverages,2017-05,11314
+beverages,2017-06,9697
+beverages,2017-07,10275
+beverages,2017-08,10696
+beverages,2017-09,10148
+beverages,2017-10,10647
+beverages,2017-11,9880
+beverages,2017-12,10219
+beverages,2018-01,10652
+beverages,2018-02,9079
+beverages,2018-03,10361
+beverages,2018-04,10495
+beverages,2018-05,10275
+beverages,2018-06,10144
+beverages,2018-07,10265
+beverages,2018-08,10473
+beverages,2018-09,10018
+beverages,2018-10,10538
+beverages,2018-11,10293
+beverages,2018-12,10621
+beverages,2019-01,10135
+beverages,2019-02,9549
+beverages,2019-03,10868
+beverages,2019-04,10619
+beverages,2019-05,10106
+beverages,2019-06,10756
+beverages,2019-07,9536
+beverages,2019-08,10876
+beverages,2019-09,10305
+beverages,2019-10,11022
+beverages,2019-11,9360
+beverages,2019-12,10591
+beverages,2020-01,10919
+beverages,2020-02,9616
+beverages,2020-03,10172
+beverages,2020-04,10439
+beverages,2020-05,10267
+beverages,2020-06,9679
+beverages,2020-07,10737
+beverages,2020-08,9907
+beverages,2020-09,10239
+beverages,2020-10,9948
+beverages,2020-11,10085
+beverages,2020-12,10452
+beverages,2021-01,10355
+beverages,2021-02,9015
+beverages,2021-03,10187
+beverages,2021-04,9869
+beverages,2021-05,10018
+beverages,2021-06,9976
+beverages,2021-07,10087
+beverages,2021-08,10636
+beverages,2021-09,10289
+beverages,2021-10,10464
+beverages,2021-11,10017
+beverages,2021-12,10720
+beverages,2022-01,9809
+beverages,2022-02,9713
+beverages,2022-03,10448
+beverages,2022-04,10451
+beverages,2022-05,10303
+beverages,2022-06,9827
+beverages,2022-07,10268
+beverages,2022-08,10494
+beverages,2022-09,9920
+beverages,2022-10,10812
+beverages,2022-11,9807
+beverages,2022-12,10118
+beverages,2023-01,10338
+beverages,2023-02,9643
+beverages,2023-03,10238
+beverages,2023-04,2384
+breakfast,2015-01,2712
+breakfast,2015-02,2520
+breakfast,2015-03,2556
+breakfast,2015-04,3095
+breakfast,2015-05,2588
+breakfast,2015-06,2583
+breakfast,2015-07,2541
+breakfast,2015-08,2616
+breakfast,2015-09,2584
+breakfast,2015-10,2309
+breakfast,2015-11,2701
+breakfast,2015-12,2372
+breakfast,2016-01,2790
+breakfast,2016-02,2182
+breakfast,2016-03,2476
+breakfast,2016-04,2832
+breakfast,2016-05,2553
+breakfast,2016-06,2338
+breakfast,2016-07,2596
+breakfast,2016-08,2274
+breakfast,2016-09,2538
+breakfast,2016-10,2737
+breakfast,2016-11,2607
+breakfast,2016-12,2838
+breakfast,2017-01,2493
+breakfast,2017-02,2413
+breakfast,2017-03,2488
+breakfast,2017-04,2423
+breakfast,2017-05,2553
+breakfast,2017-06,2877
+breakfast,2017-07,2533
+breakfast,2017-08,2905
+breakfast,2017-09,2748
+breakfast,2017-10,2681
+breakfast,2017-11,2448
+breakfast,2017-12,2581
+breakfast,2018-01,2728
+breakfast,2018-02,2353
+breakfast,2018-03,2686
+breakfast,2018-04,2524
+breakfast,2018-05,2633
+breakfast,2018-06,2618
+breakfast,2018-07,2540
+breakfast,2018-08,2536
+breakfast,2018-09,2837
+breakfast,2018-10,2364
+breakfast,2018-11,2787
+breakfast,2018-12,2479
+breakfast,2019-01,2655
+breakfast,2019-02,2317
+breakfast,2019-03,2763
+breakfast,2019-04,2685
+breakfast,2019-05,2804
+breakfast,2019-06,2498
+breakfast,2019-07,2738
+breakfast,2019-08,2512
+breakfast,2019-09,2446
+breakfast,2019-10,2693
+breakfast,2019-11,2991
+breakfast,2019-12,2526
+breakfast,2020-01,2914
+breakfast,2020-02,2649
+breakfast,2020-03,2550
+breakfast,2020-04,2664
+breakfast,2020-05,2709
+breakfast,2020-06,2766
+breakfast,2020-07,2324
+breakfast,2020-08,2268
+breakfast,2020-09,2777
+breakfast,2020-10,2480
+breakfast,2020-11,2424
+breakfast,2020-12,2918
+breakfast,2021-01,2723
+breakfast,2021-02,2358
+breakfast,2021-03,2541
+breakfast,2021-04,2555
+breakfast,2021-05,2749
+breakfast,2021-06,2766
+breakfast,2021-07,2574
+breakfast,2021-08,2628
+breakfast,2021-09,2286
+breakfast,2021-10,2810
+breakfast,2021-11,2660
+breakfast,2021-12,3029
+breakfast,2022-01,2298
+breakfast,2022-02,2330
+breakfast,2022-03,2502
+breakfast,2022-04,2652
+breakfast,2022-05,2632
+breakfast,2022-06,2501
+breakfast,2022-07,2453
+breakfast,2022-08,2718
+breakfast,2022-09,2714
+breakfast,2022-10,2340
+breakfast,2022-11,2762
+breakfast,2022-12,2653
+breakfast,2023-01,2915
+breakfast,2023-02,2537
+breakfast,2023-03,2655
+breakfast,2023-04,504
+bulk,2015-01,47
+bulk,2015-02,130
+bulk,2015-03,87
+bulk,2015-04,15
+bulk,2015-05,44
+bulk,2015-06,159
+bulk,2015-07,111
+bulk,2015-08,30
+bulk,2015-09,77
+bulk,2015-10,127
+bulk,2015-11,54
+bulk,2015-12,93
+bulk,2016-01,95
+bulk,2016-02,130
+bulk,2016-03,70
+bulk,2016-04,125
+bulk,2016-05,93
+bulk,2016-06,124
+bulk,2016-07,46
+bulk,2016-08,103
+bulk,2016-09,74
+bulk,2016-10,76
+bulk,2016-11,53
+bulk,2016-12,90
+bulk,2017-01,79
+bulk,2017-02,116
+bulk,2017-03,56
+bulk,2017-04,95
+bulk,2017-05,84
+bulk,2017-06,52
+bulk,2017-07,46
+bulk,2017-08,96
+bulk,2017-09,83
+bulk,2017-10,94
+bulk,2017-11,64
+bulk,2017-12,91
+bulk,2018-01,113
+bulk,2018-02,67
+bulk,2018-03,73
+bulk,2018-04,51
+bulk,2018-05,65
+bulk,2018-06,145
+bulk,2018-07,85
+bulk,2018-08,105
+bulk,2018-09,131
+bulk,2018-10,72
+bulk,2018-11,111
+bulk,2018-12,74
+bulk,2019-01,80
+bulk,2019-02,107
+bulk,2019-03,140
+bulk,2019-04,143
+bulk,2019-05,58
+bulk,2019-06,78
+bulk,2019-07,116
+bulk,2019-08,70
+bulk,2019-09,110
+bulk,2019-10,93
+bulk,2019-11,118
+bulk,2019-12,111
+bulk,2020-01,109
+bulk,2020-02,71
+bulk,2020-03,134
+bulk,2020-04,62
+bulk,2020-05,40
+bulk,2020-06,49
+bulk,2020-07,96
+bulk,2020-08,132
+bulk,2020-09,72
+bulk,2020-10,51
+bulk,2020-11,130
+bulk,2020-12,116
+bulk,2021-01,147
+bulk,2021-02,66
+bulk,2021-03,54
+bulk,2021-04,55
+bulk,2021-05,51
+bulk,2021-06,93
+bulk,2021-07,84
+bulk,2021-08,77
+bulk,2021-09,103
+bulk,2021-10,71
+bulk,2021-11,157
+bulk,2021-12,63
+bulk,2022-01,74
+bulk,2022-02,156
+bulk,2022-03,71
+bulk,2022-04,107
+bulk,2022-05,115
+bulk,2022-06,117
+bulk,2022-07,64
+bulk,2022-08,124
+bulk,2022-09,109
+bulk,2022-10,121
+bulk,2022-11,150
+bulk,2022-12,34
+bulk,2023-01,165
+bulk,2023-02,82
+bulk,2023-03,44
+bulk,2023-04,16
+canned goods,2015-01,4733
+canned goods,2015-02,4305
+canned goods,2015-03,5061
+canned goods,2015-04,5123
+canned goods,2015-05,5021
+canned goods,2015-06,5186
+canned goods,2015-07,5089
+canned goods,2015-08,4757
+canned goods,2015-09,4948
+canned goods,2015-10,4821
+canned goods,2015-11,4850
+canned goods,2015-12,4678
+canned goods,2016-01,4783
+canned goods,2016-02,4897
+canned goods,2016-03,4870
+canned goods,2016-04,4602
+canned goods,2016-05,4834
+canned goods,2016-06,4963
+canned goods,2016-07,4921
+canned goods,2016-08,5043
+canned goods,2016-09,4501
+canned goods,2016-10,5002
+canned goods,2016-11,5049
+canned goods,2016-12,5148
+canned goods,2017-01,4842
+canned goods,2017-02,4327
+canned goods,2017-03,5314
+canned goods,2017-04,4577
+canned goods,2017-05,5194
+canned goods,2017-06,4889
+canned goods,2017-07,4958
+canned goods,2017-08,5292
+canned goods,2017-09,4579
+canned goods,2017-10,4984
+canned goods,2017-11,4430
+canned goods,2017-12,5244
+canned goods,2018-01,4965
+canned goods,2018-02,4444
+canned goods,2018-03,5361
+canned goods,2018-04,4550
+canned goods,2018-05,5144
+canned goods,2018-06,4821
+canned goods,2018-07,4688
+canned goods,2018-08,4972
+canned goods,2018-09,5087
+canned goods,2018-10,5334
+canned goods,2018-11,5276
+canned goods,2018-12,5139
+canned goods,2019-01,5202
+canned goods,2019-02,4691
+canned goods,2019-03,4762
+canned goods,2019-04,4415
+canned goods,2019-05,4587
+canned goods,2019-06,4504
+canned goods,2019-07,5228
+canned goods,2019-08,4726
+canned goods,2019-09,4815
+canned goods,2019-10,5146
+canned goods,2019-11,5469
+canned goods,2019-12,5427
+canned goods,2020-01,4690
+canned goods,2020-02,4615
+canned goods,2020-03,5120
+canned goods,2020-04,4644
+canned goods,2020-05,5100
+canned goods,2020-06,5071
+canned goods,2020-07,4722
+canned goods,2020-08,5179
+canned goods,2020-09,4962
+canned goods,2020-10,5311
+canned goods,2020-11,5149
+canned goods,2020-12,4967
+canned goods,2021-01,4880
+canned goods,2021-02,4718
+canned goods,2021-03,4827
+canned goods,2021-04,4754
+canned goods,2021-05,5190
+canned goods,2021-06,4264
+canned goods,2021-07,5137
+canned goods,2021-08,4769
+canned goods,2021-09,4692
+canned goods,2021-10,5030
+canned goods,2021-11,5215
+canned goods,2021-12,5118
+canned goods,2022-01,5332
+canned goods,2022-02,4654
+canned goods,2022-03,4661
+canned goods,2022-04,5100
+canned goods,2022-05,5042
+canned goods,2022-06,4759
+canned goods,2022-07,5072
+canned goods,2022-08,4996
+canned goods,2022-09,4848
+canned goods,2022-10,4676
+canned goods,2022-11,4945
+canned goods,2022-12,5165
+canned goods,2023-01,5162
+canned goods,2023-02,4648
+canned goods,2023-03,4904
+canned goods,2023-04,1286
+dairy eggs,2015-01,8697
+dairy eggs,2015-02,7457
+dairy eggs,2015-03,8700
+dairy eggs,2015-04,7343
+dairy eggs,2015-05,7947
+dairy eggs,2015-06,7306
+dairy eggs,2015-07,8437
+dairy eggs,2015-08,8982
+dairy eggs,2015-09,7950
+dairy eggs,2015-10,7652
+dairy eggs,2015-11,8091
+dairy eggs,2015-12,8136
+dairy eggs,2016-01,8632
+dairy eggs,2016-02,7013
+dairy eggs,2016-03,7895
+dairy eggs,2016-04,7735
+dairy eggs,2016-05,7951
+dairy eggs,2016-06,7582
+dairy eggs,2016-07,7687
+dairy eggs,2016-08,8265
+dairy eggs,2016-09,7691
+dairy eggs,2016-10,8074
+dairy eggs,2016-11,7956
+dairy eggs,2016-12,8903
+dairy eggs,2017-01,8287
+dairy eggs,2017-02,6879
+dairy eggs,2017-03,8067
+dairy eggs,2017-04,8026
+dairy eggs,2017-05,8021
+dairy eggs,2017-06,7980
+dairy eggs,2017-07,8052
+dairy eggs,2017-08,8078
+dairy eggs,2017-09,8076
+dairy eggs,2017-10,7684
+dairy eggs,2017-11,7410
+dairy eggs,2017-12,7945
+dairy eggs,2018-01,7892
+dairy eggs,2018-02,7523
+dairy eggs,2018-03,8307
+dairy eggs,2018-04,8228
+dairy eggs,2018-05,7968
+dairy eggs,2018-06,7660
+dairy eggs,2018-07,7966
+dairy eggs,2018-08,8380
+dairy eggs,2018-09,7794
+dairy eggs,2018-10,7992
+dairy eggs,2018-11,7757
+dairy eggs,2018-12,7599
+dairy eggs,2019-01,8204
+dairy eggs,2019-02,7816
+dairy eggs,2019-03,8677
+dairy eggs,2019-04,7865
+dairy eggs,2019-05,7879
+dairy eggs,2019-06,7960
+dairy eggs,2019-07,7987
+dairy eggs,2019-08,8097
+dairy eggs,2019-09,8097
+dairy eggs,2019-10,8411
+dairy eggs,2019-11,7724
+dairy eggs,2019-12,7966
+dairy eggs,2020-01,8070
+dairy eggs,2020-02,7866
+dairy eggs,2020-03,7930
+dairy eggs,2020-04,7930
+dairy eggs,2020-05,8117
+dairy eggs,2020-06,8150
+dairy eggs,2020-07,8099
+dairy eggs,2020-08,8172
+dairy eggs,2020-09,8030
+dairy eggs,2020-10,8052
+dairy eggs,2020-11,7942
+dairy eggs,2020-12,8012
+dairy eggs,2021-01,8313
+dairy eggs,2021-02,7745
+dairy eggs,2021-03,8430
+dairy eggs,2021-04,7474
+dairy eggs,2021-05,8580
+dairy eggs,2021-06,7890
+dairy eggs,2021-07,8835
+dairy eggs,2021-08,8366
+dairy eggs,2021-09,8124
+dairy eggs,2021-10,8556
+dairy eggs,2021-11,8175
+dairy eggs,2021-12,7635
+dairy eggs,2022-01,8743
+dairy eggs,2022-02,7513
+dairy eggs,2022-03,8309
+dairy eggs,2022-04,7719
+dairy eggs,2022-05,7821
+dairy eggs,2022-06,8046
+dairy eggs,2022-07,8780
+dairy eggs,2022-08,8176
+dairy eggs,2022-09,8448
+dairy eggs,2022-10,8307
+dairy eggs,2022-11,8212
+dairy eggs,2022-12,7853
+dairy eggs,2023-01,8098
+dairy eggs,2023-02,7553
+dairy eggs,2023-03,8220
+dairy eggs,2023-04,1943
+deli,2015-01,2934
+deli,2015-02,2682
+deli,2015-03,3581
+deli,2015-04,2897
+deli,2015-05,3152
+deli,2015-06,2834
+deli,2015-07,2867
+deli,2015-08,3184
+deli,2015-09,3222
+deli,2015-10,3286
+deli,2015-11,3107
+deli,2015-12,3097
+deli,2016-01,3162
+deli,2016-02,2963
+deli,2016-03,3207
+deli,2016-04,3264
+deli,2016-05,3107
+deli,2016-06,3034
+deli,2016-07,3461
+deli,2016-08,3408
+deli,2016-09,3314
+deli,2016-10,2989
+deli,2016-11,3022
+deli,2016-12,3189
+deli,2017-01,3066
+deli,2017-02,2803
+deli,2017-03,3050
+deli,2017-04,3086
+deli,2017-05,3186
+deli,2017-06,2994
+deli,2017-07,3219
+deli,2017-08,2870
+deli,2017-09,3151
+deli,2017-10,3382
+deli,2017-11,3008
+deli,2017-12,3207
+deli,2018-01,3028
+deli,2018-02,2839
+deli,2018-03,3067
+deli,2018-04,2971
+deli,2018-05,3017
+deli,2018-06,2889
+deli,2018-07,3408
+deli,2018-08,3006
+deli,2018-09,3250
+deli,2018-10,3169
+deli,2018-11,2848
+deli,2018-12,3335
+deli,2019-01,3051
+deli,2019-02,2852
+deli,2019-03,2924
+deli,2019-04,3579
+deli,2019-05,3115
+deli,2019-06,3042
+deli,2019-07,3312
+deli,2019-08,3423
+deli,2019-09,2935
+deli,2019-10,3117
+deli,2019-11,3251
+deli,2019-12,2886
+deli,2020-01,3424
+deli,2020-02,2951
+deli,2020-03,3741
+deli,2020-04,2803
+deli,2020-05,3038
+deli,2020-06,2949
+deli,2020-07,3572
+deli,2020-08,3255
+deli,2020-09,3155
+deli,2020-10,3379
+deli,2020-11,2838
+deli,2020-12,3164
+deli,2021-01,3098
+deli,2021-02,2836
+deli,2021-03,3087
+deli,2021-04,2986
+deli,2021-05,3522
+deli,2021-06,3336
+deli,2021-07,3096
+deli,2021-08,3273
+deli,2021-09,3016
+deli,2021-10,3488
+deli,2021-11,3027
+deli,2021-12,2981
+deli,2022-01,3201
+deli,2022-02,2810
+deli,2022-03,3078
+deli,2022-04,2828
+deli,2022-05,2856
+deli,2022-06,2919
+deli,2022-07,2801
+deli,2022-08,3042
+deli,2022-09,3115
+deli,2022-10,3043
+deli,2022-11,3052
+deli,2022-12,2980
+deli,2023-01,3174
+deli,2023-02,3048
+deli,2023-03,3199
+deli,2023-04,734
+dry goods pasta,2015-01,4610
+dry goods pasta,2015-02,3719
+dry goods pasta,2015-03,3826
+dry goods pasta,2015-04,4449
+dry goods pasta,2015-05,4696
+dry goods pasta,2015-06,4476
+dry goods pasta,2015-07,4622
+dry goods pasta,2015-08,4814
+dry goods pasta,2015-09,4225
+dry goods pasta,2015-10,4244
+dry goods pasta,2015-11,4146
+dry goods pasta,2015-12,4284
+dry goods pasta,2016-01,4404
+dry goods pasta,2016-02,4163
+dry goods pasta,2016-03,4612
+dry goods pasta,2016-04,4460
+dry goods pasta,2016-05,4298
+dry goods pasta,2016-06,3715
+dry goods pasta,2016-07,4543
+dry goods pasta,2016-08,4526
+dry goods pasta,2016-09,4327
+dry goods pasta,2016-10,4419
+dry goods pasta,2016-11,4194
+dry goods pasta,2016-12,4008
+dry goods pasta,2017-01,4487
+dry goods pasta,2017-02,3867
+dry goods pasta,2017-03,4716
+dry goods pasta,2017-04,4470
+dry goods pasta,2017-05,4879
+dry goods pasta,2017-06,4408
+dry goods pasta,2017-07,4286
+dry goods pasta,2017-08,4371
+dry goods pasta,2017-09,4403
+dry goods pasta,2017-10,4309
+dry goods pasta,2017-11,4546
+dry goods pasta,2017-12,4785
+dry goods pasta,2018-01,4261
+dry goods pasta,2018-02,3913
+dry goods pasta,2018-03,4141
+dry goods pasta,2018-04,4313
+dry goods pasta,2018-05,4268
+dry goods pasta,2018-06,4298
+dry goods pasta,2018-07,4249
+dry goods pasta,2018-08,4195
+dry goods pasta,2018-09,3986
+dry goods pasta,2018-10,4778
+dry goods pasta,2018-11,4296
+dry goods pasta,2018-12,4682
+dry goods pasta,2019-01,4370
+dry goods pasta,2019-02,3951
+dry goods pasta,2019-03,4396
+dry goods pasta,2019-04,4339
+dry goods pasta,2019-05,3948
+dry goods pasta,2019-06,4326
+dry goods pasta,2019-07,4420
+dry goods pasta,2019-08,4249
+dry goods pasta,2019-09,4211
+dry goods pasta,2019-10,4707
+dry goods pasta,2019-11,4414
+dry goods pasta,2019-12,4220
+dry goods pasta,2020-01,4349
+dry goods pasta,2020-02,4377
+dry goods pasta,2020-03,4354
+dry goods pasta,2020-04,3958
+dry goods pasta,2020-05,4291
+dry goods pasta,2020-06,4255
+dry goods pasta,2020-07,4420
+dry goods pasta,2020-08,4687
+dry goods pasta,2020-09,4209
+dry goods pasta,2020-10,4897
+dry goods pasta,2020-11,3885
+dry goods pasta,2020-12,4015
+dry goods pasta,2021-01,4079
+dry goods pasta,2021-02,4110
+dry goods pasta,2021-03,4338
+dry goods pasta,2021-04,3864
+dry goods pasta,2021-05,4352
+dry goods pasta,2021-06,4253
+dry goods pasta,2021-07,3851
+dry goods pasta,2021-08,4445
+dry goods pasta,2021-09,4171
+dry goods pasta,2021-10,4301
+dry goods pasta,2021-11,4306
+dry goods pasta,2021-12,4591
+dry goods pasta,2022-01,4248
+dry goods pasta,2022-02,3828
+dry goods pasta,2022-03,4737
+dry goods pasta,2022-04,4429
+dry goods pasta,2022-05,4254
+dry goods pasta,2022-06,4505
+dry goods pasta,2022-07,4489
+dry goods pasta,2022-08,4363
+dry goods pasta,2022-09,4133
+dry goods pasta,2022-10,4693
+dry goods pasta,2022-11,4043
+dry goods pasta,2022-12,4481
+dry goods pasta,2023-01,4646
+dry goods pasta,2023-02,4233
+dry goods pasta,2023-03,4670
+dry goods pasta,2023-04,1020
+frozen,2015-01,9271
+frozen,2015-02,8887
+frozen,2015-03,9905
+frozen,2015-04,8971
+frozen,2015-05,9300
+frozen,2015-06,9420
+frozen,2015-07,9576
+frozen,2015-08,9902
+frozen,2015-09,9410
+frozen,2015-10,9603
+frozen,2015-11,9071
+frozen,2015-12,9922
+frozen,2016-01,9184
+frozen,2016-02,8764
+frozen,2016-03,8996
+frozen,2016-04,9379
+frozen,2016-05,9007
+frozen,2016-06,9654
+frozen,2016-07,9813
+frozen,2016-08,8930
+frozen,2016-09,9242
+frozen,2016-10,9686
+frozen,2016-11,8462
+frozen,2016-12,9456
+frozen,2017-01,9594
+frozen,2017-02,8096
+frozen,2017-03,9430
+frozen,2017-04,9867
+frozen,2017-05,10051
+frozen,2017-06,8722
+frozen,2017-07,9763
+frozen,2017-08,9179
+frozen,2017-09,9345
+frozen,2017-10,9774
+frozen,2017-11,9267
+frozen,2017-12,9539
+frozen,2018-01,10398
+frozen,2018-02,9052
+frozen,2018-03,9423
+frozen,2018-04,9051
+frozen,2018-05,9583
+frozen,2018-06,9473
+frozen,2018-07,10115
+frozen,2018-08,9639
+frozen,2018-09,9551
+frozen,2018-10,8867
+frozen,2018-11,9134
+frozen,2018-12,9751
+frozen,2019-01,9505
+frozen,2019-02,8977
+frozen,2019-03,8864
+frozen,2019-04,9158
+frozen,2019-05,9228
+frozen,2019-06,9242
+frozen,2019-07,10104
+frozen,2019-08,10017
+frozen,2019-09,9325
+frozen,2019-10,9713
+frozen,2019-11,9069
+frozen,2019-12,9323
+frozen,2020-01,9383
+frozen,2020-02,8913
+frozen,2020-03,9759
+frozen,2020-04,8728
+frozen,2020-05,9524
+frozen,2020-06,9521
+frozen,2020-07,9271
+frozen,2020-08,9984
+frozen,2020-09,9484
+frozen,2020-10,8772
+frozen,2020-11,9668
+frozen,2020-12,9225
+frozen,2021-01,9361
+frozen,2021-02,7971
+frozen,2021-03,9247
+frozen,2021-04,8607
+frozen,2021-05,10103
+frozen,2021-06,9504
+frozen,2021-07,9222
+frozen,2021-08,10244
+frozen,2021-09,8935
+frozen,2021-10,9867
+frozen,2021-11,9309
+frozen,2021-12,9397
+frozen,2022-01,9393
+frozen,2022-02,9246
+frozen,2022-03,9506
+frozen,2022-04,9307
+frozen,2022-05,10288
+frozen,2022-06,9623
+frozen,2022-07,9757
+frozen,2022-08,9117
+frozen,2022-09,9070
+frozen,2022-10,9668
+frozen,2022-11,9558
+frozen,2022-12,9648
+frozen,2023-01,9328
+frozen,2023-02,8656
+frozen,2023-03,9492
+frozen,2023-04,2251
+household,2015-01,7493
+household,2015-02,6455
+household,2015-03,7757
+household,2015-04,7236
+household,2015-05,7365
+household,2015-06,7584
+household,2015-07,7688
+household,2015-08,7440
+household,2015-09,6893
+household,2015-10,7402
+household,2015-11,7307
+household,2015-12,7392
+household,2016-01,7519
+household,2016-02,6980
+household,2016-03,6790
+household,2016-04,7169
+household,2016-05,7357
+household,2016-06,7242
+household,2016-07,7558
+household,2016-08,7702
+household,2016-09,7220
+household,2016-10,7758
+household,2016-11,6351
+household,2016-12,7187
+household,2017-01,7325
+household,2017-02,6121
+household,2017-03,7672
+household,2017-04,6939
+household,2017-05,7593
+household,2017-06,7283
+household,2017-07,7869
+household,2017-08,7416
+household,2017-09,7215
+household,2017-10,7576
+household,2017-11,7066
+household,2017-12,7921
+household,2018-01,7390
+household,2018-02,6133
+household,2018-03,7155
+household,2018-04,6932
+household,2018-05,7569
+household,2018-06,6974
+household,2018-07,7771
+household,2018-08,7604
+household,2018-09,6679
+household,2018-10,7256
+household,2018-11,6684
+household,2018-12,7483
+household,2019-01,7037
+household,2019-02,6662
+household,2019-03,7422
+household,2019-04,7290
+household,2019-05,7642
+household,2019-06,7157
+household,2019-07,6511
+household,2019-08,7667
+household,2019-09,7158
+household,2019-10,7105
+household,2019-11,6725
+household,2019-12,6894
+household,2020-01,7387
+household,2020-02,6712
+household,2020-03,7317
+household,2020-04,7751
+household,2020-05,7254
+household,2020-06,7091
+household,2020-07,7294
+household,2020-08,7464
+household,2020-09,7040
+household,2020-10,7285
+household,2020-11,6952
+household,2020-12,7098
+household,2021-01,7147
+household,2021-02,6687
+household,2021-03,7201
+household,2021-04,6865
+household,2021-05,6884
+household,2021-06,7022
+household,2021-07,7265
+household,2021-08,7194
+household,2021-09,7737
+household,2021-10,7126
+household,2021-11,7635
+household,2021-12,6733
+household,2022-01,7802
+household,2022-02,6343
+household,2022-03,7146
+household,2022-04,7480
+household,2022-05,7179
+household,2022-06,6754
+household,2022-07,7353
+household,2022-08,7271
+household,2022-09,7238
+household,2022-10,7391
+household,2022-11,6679
+household,2022-12,7088
+household,2023-01,7145
+household,2023-02,6251
+household,2023-03,7427
+household,2023-04,1740
+international,2015-01,2649
+international,2015-02,2615
+international,2015-03,2874
+international,2015-04,2981
+international,2015-05,2767
+international,2015-06,2643
+international,2015-07,2696
+international,2015-08,2764
+international,2015-09,2607
+international,2015-10,2922
+international,2015-11,2763
+international,2015-12,2498
+international,2016-01,2632
+international,2016-02,2434
+international,2016-03,2577
+international,2016-04,2463
+international,2016-05,2949
+international,2016-06,2546
+international,2016-07,2683
+international,2016-08,2900
+international,2016-09,2419
+international,2016-10,2918
+international,2016-11,2647
+international,2016-12,2741
+international,2017-01,2841
+international,2017-02,2038
+international,2017-03,2488
+international,2017-04,2549
+international,2017-05,2716
+international,2017-06,2649
+international,2017-07,2808
+international,2017-08,2826
+international,2017-09,2724
+international,2017-10,2289
+international,2017-11,2545
+international,2017-12,2745
+international,2018-01,2633
+international,2018-02,2154
+international,2018-03,2340
+international,2018-04,2821
+international,2018-05,2597
+international,2018-06,2385
+international,2018-07,2412
+international,2018-08,2904
+international,2018-09,2686
+international,2018-10,2683
+international,2018-11,2854
+international,2018-12,2720
+international,2019-01,2757
+international,2019-02,2439
+international,2019-03,2649
+international,2019-04,2431
+international,2019-05,2734
+international,2019-06,2391
+international,2019-07,2874
+international,2019-08,2617
+international,2019-09,2374
+international,2019-10,2970
+international,2019-11,2658
+international,2019-12,2924
+international,2020-01,3018
+international,2020-02,2788
+international,2020-03,2817
+international,2020-04,2820
+international,2020-05,2490
+international,2020-06,2449
+international,2020-07,2624
+international,2020-08,2333
+international,2020-09,2779
+international,2020-10,2683
+international,2020-11,2653
+international,2020-12,2749
+international,2021-01,2883
+international,2021-02,2538
+international,2021-03,2573
+international,2021-04,2723
+international,2021-05,2462
+international,2021-06,2765
+international,2021-07,3044
+international,2021-08,2694
+international,2021-09,2585
+international,2021-10,2835
+international,2021-11,2578
+international,2021-12,2681
+international,2022-01,2895
+international,2022-02,2798
+international,2022-03,2420
+international,2022-04,2838
+international,2022-05,2911
+international,2022-06,2517
+international,2022-07,2829
+international,2022-08,2601
+international,2022-09,2847
+international,2022-10,2774
+international,2022-11,2797
+international,2022-12,2442
+international,2023-01,2301
+international,2023-02,2485
+international,2023-03,2527
+international,2023-04,435
+meat seafood,2015-01,2267
+meat seafood,2015-02,1767
+meat seafood,2015-03,2022
+meat seafood,2015-04,2167
+meat seafood,2015-05,2103
+meat seafood,2015-06,2114
+meat seafood,2015-07,2221
+meat seafood,2015-08,2241
+meat seafood,2015-09,1842
+meat seafood,2015-10,2114
+meat seafood,2015-11,1851
+meat seafood,2015-12,1965
+meat seafood,2016-01,2150
+meat seafood,2016-02,2075
+meat seafood,2016-03,1814
+meat seafood,2016-04,2398
+meat seafood,2016-05,2052
+meat seafood,2016-06,2138
+meat seafood,2016-07,2251
+meat seafood,2016-08,2189
+meat seafood,2016-09,1940
+meat seafood,2016-10,2205
+meat seafood,2016-11,1946
+meat seafood,2016-12,2483
+meat seafood,2017-01,2340
+meat seafood,2017-02,2013
+meat seafood,2017-03,2215
+meat seafood,2017-04,1960
+meat seafood,2017-05,2137
+meat seafood,2017-06,2068
+meat seafood,2017-07,2174
+meat seafood,2017-08,1993
+meat seafood,2017-09,2135
+meat seafood,2017-10,2036
+meat seafood,2017-11,2011
+meat seafood,2017-12,1837
+meat seafood,2018-01,2124
+meat seafood,2018-02,1989
+meat seafood,2018-03,2363
+meat seafood,2018-04,1965
+meat seafood,2018-05,2333
+meat seafood,2018-06,2141
+meat seafood,2018-07,2180
+meat seafood,2018-08,2221
+meat seafood,2018-09,2058
+meat seafood,2018-10,2043
+meat seafood,2018-11,2217
+meat seafood,2018-12,2046
+meat seafood,2019-01,2089
+meat seafood,2019-02,1728
+meat seafood,2019-03,2267
+meat seafood,2019-04,2434
+meat seafood,2019-05,1975
+meat seafood,2019-06,2241
+meat seafood,2019-07,1912
+meat seafood,2019-08,2151
+meat seafood,2019-09,2068
+meat seafood,2019-10,2204
+meat seafood,2019-11,1925
+meat seafood,2019-12,2317
+meat seafood,2020-01,1891
+meat seafood,2020-02,1844
+meat seafood,2020-03,1872
+meat seafood,2020-04,1970
+meat seafood,2020-05,2349
+meat seafood,2020-06,1991
+meat seafood,2020-07,1981
+meat seafood,2020-08,2510
+meat seafood,2020-09,1948
+meat seafood,2020-10,1989
+meat seafood,2020-11,2075
+meat seafood,2020-12,2111
+meat seafood,2021-01,2030
+meat seafood,2021-02,2165
+meat seafood,2021-03,2332
+meat seafood,2021-04,2204
+meat seafood,2021-05,2116
+meat seafood,2021-06,2079
+meat seafood,2021-07,2140
+meat seafood,2021-08,2411
+meat seafood,2021-09,2016
+meat seafood,2021-10,2117
+meat seafood,2021-11,1868
+meat seafood,2021-12,1989
+meat seafood,2022-01,2361
+meat seafood,2022-02,2057
+meat seafood,2022-03,2196
+meat seafood,2022-04,2256
+meat seafood,2022-05,2298
+meat seafood,2022-06,1861
+meat seafood,2022-07,2211
+meat seafood,2022-08,2224
+meat seafood,2022-09,2368
+meat seafood,2022-10,2239
+meat seafood,2022-11,2532
+meat seafood,2022-12,2286
+meat seafood,2023-01,2005
+meat seafood,2023-02,1681
+meat seafood,2023-03,2142
+meat seafood,2023-04,415
+missing,2015-01,2894
+missing,2015-02,3047
+missing,2015-03,3015
+missing,2015-04,2652
+missing,2015-05,3267
+missing,2015-06,2693
+missing,2015-07,2958
+missing,2015-08,2972
+missing,2015-09,2707
+missing,2015-10,3159
+missing,2015-11,2818
+missing,2015-12,3073
+missing,2016-01,3087
+missing,2016-02,2899
+missing,2016-03,3069
+missing,2016-04,3047
+missing,2016-05,2849
+missing,2016-06,2720
+missing,2016-07,2813
+missing,2016-08,3248
+missing,2016-09,2895
+missing,2016-10,3182
+missing,2016-11,2907
+missing,2016-12,3278
+missing,2017-01,3352
+missing,2017-02,2528
+missing,2017-03,3314
+missing,2017-04,3170
+missing,2017-05,3331
+missing,2017-06,2983
+missing,2017-07,2986
+missing,2017-08,2992
+missing,2017-09,2653
+missing,2017-10,3219
+missing,2017-11,3137
+missing,2017-12,3185
+missing,2018-01,2727
+missing,2018-02,2732
+missing,2018-03,2785
+missing,2018-04,2943
+missing,2018-05,3056
+missing,2018-06,2885
+missing,2018-07,3047
+missing,2018-08,3023
+missing,2018-09,3294
+missing,2018-10,3132
+missing,2018-11,2792
+missing,2018-12,2856
+missing,2019-01,3004
+missing,2019-02,2874
+missing,2019-03,3102
+missing,2019-04,2771
+missing,2019-05,2849
+missing,2019-06,2892
+missing,2019-07,2901
+missing,2019-08,3196
+missing,2019-09,2991
+missing,2019-10,2959
+missing,2019-11,2833
+missing,2019-12,2845
+missing,2020-01,3030
+missing,2020-02,3129
+missing,2020-03,2490
+missing,2020-04,2961
+missing,2020-05,3159
+missing,2020-06,2871
+missing,2020-07,2722
+missing,2020-08,3212
+missing,2020-09,2763
+missing,2020-10,3065
+missing,2020-11,3148
+missing,2020-12,3313
+missing,2021-01,3011
+missing,2021-02,2623
+missing,2021-03,2925
+missing,2021-04,2615
+missing,2021-05,2793
+missing,2021-06,3274
+missing,2021-07,3098
+missing,2021-08,3145
+missing,2021-09,2804
+missing,2021-10,3297
+missing,2021-11,3448
+missing,2021-12,2677
+missing,2022-01,2986
+missing,2022-02,2827
+missing,2022-03,2585
+missing,2022-04,3083
+missing,2022-05,2975
+missing,2022-06,3111
+missing,2022-07,3012
+missing,2022-08,3212
+missing,2022-09,2827
+missing,2022-10,3256
+missing,2022-11,3154
+missing,2022-12,2966
+missing,2023-01,2966
+missing,2023-02,2732
+missing,2023-03,3138
+missing,2023-04,730
+other,2015-01,1169
+other,2015-02,1217
+other,2015-03,1344
+other,2015-04,1085
+other,2015-05,1290
+other,2015-06,1504
+other,2015-07,1249
+other,2015-08,1267
+other,2015-09,1256
+other,2015-10,1228
+other,2015-11,1334
+other,2015-12,1480
+other,2016-01,1125
+other,2016-02,1106
+other,2016-03,1182
+other,2016-04,1257
+other,2016-05,1482
+other,2016-06,1249
+other,2016-07,1198
+other,2016-08,1070
+other,2016-09,1241
+other,2016-10,1486
+other,2016-11,1282
+other,2016-12,1538
+other,2017-01,1167
+other,2017-02,1173
+other,2017-03,1164
+other,2017-04,1312
+other,2017-05,1456
+other,2017-06,1411
+other,2017-07,1286
+other,2017-08,1437
+other,2017-09,1058
+other,2017-10,1343
+other,2017-11,1385
+other,2017-12,1361
+other,2018-01,1251
+other,2018-02,1137
+other,2018-03,1296
+other,2018-04,1186
+other,2018-05,1597
+other,2018-06,1306
+other,2018-07,1238
+other,2018-08,1620
+other,2018-09,1196
+other,2018-10,1366
+other,2018-11,1249
+other,2018-12,1204
+other,2019-01,1261
+other,2019-02,1206
+other,2019-03,1606
+other,2019-04,1193
+other,2019-05,1396
+other,2019-06,1120
+other,2019-07,1349
+other,2019-08,1292
+other,2019-09,1095
+other,2019-10,1196
+other,2019-11,1223
+other,2019-12,1432
+other,2020-01,1130
+other,2020-02,1223
+other,2020-03,1478
+other,2020-04,1250
+other,2020-05,1375
+other,2020-06,1217
+other,2020-07,1115
+other,2020-08,1361
+other,2020-09,1353
+other,2020-10,1402
+other,2020-11,1306
+other,2020-12,1407
+other,2021-01,1437
+other,2021-02,1176
+other,2021-03,1452
+other,2021-04,1487
+other,2021-05,1260
+other,2021-06,1125
+other,2021-07,1262
+other,2021-08,1255
+other,2021-09,1134
+other,2021-10,1258
+other,2021-11,1076
+other,2021-12,1457
+other,2022-01,1106
+other,2022-02,1275
+other,2022-03,1617
+other,2022-04,1336
+other,2022-05,1479
+other,2022-06,1305
+other,2022-07,1246
+other,2022-08,1220
+other,2022-09,1182
+other,2022-10,1179
+other,2022-11,1349
+other,2022-12,1142
+other,2023-01,1312
+other,2023-02,1135
+other,2023-03,1327
+other,2023-04,197
+pantry,2015-01,13083
+pantry,2015-02,11258
+pantry,2015-03,12435
+pantry,2015-04,12277
+pantry,2015-05,13266
+pantry,2015-06,12921
+pantry,2015-07,13057
+pantry,2015-08,12365
+pantry,2015-09,12831
+pantry,2015-10,12648
+pantry,2015-11,11919
+pantry,2015-12,12765
+pantry,2016-01,12931
+pantry,2016-02,12298
+pantry,2016-03,13764
+pantry,2016-04,12026
+pantry,2016-05,12261
+pantry,2016-06,11925
+pantry,2016-07,12011
+pantry,2016-08,12920
+pantry,2016-09,12583
+pantry,2016-10,12490
+pantry,2016-11,12253
+pantry,2016-12,12640
+pantry,2017-01,12336
+pantry,2017-02,11839
+pantry,2017-03,12476
+pantry,2017-04,11908
+pantry,2017-05,12505
+pantry,2017-06,12319
+pantry,2017-07,12612
+pantry,2017-08,12976
+pantry,2017-09,11903
+pantry,2017-10,12432
+pantry,2017-11,12359
+pantry,2017-12,12720
+pantry,2018-01,13348
+pantry,2018-02,11501
+pantry,2018-03,12538
+pantry,2018-04,12566
+pantry,2018-05,12802
+pantry,2018-06,12956
+pantry,2018-07,12874
+pantry,2018-08,12915
+pantry,2018-09,12015
+pantry,2018-10,13340
+pantry,2018-11,12431
+pantry,2018-12,12446
+pantry,2019-01,12311
+pantry,2019-02,11788
+pantry,2019-03,12740
+pantry,2019-04,12107
+pantry,2019-05,12931
+pantry,2019-06,12377
+pantry,2019-07,12892
+pantry,2019-08,13231
+pantry,2019-09,12702
+pantry,2019-10,12541
+pantry,2019-11,12169
+pantry,2019-12,12851
+pantry,2020-01,12663
+pantry,2020-02,12549
+pantry,2020-03,12477
+pantry,2020-04,12191
+pantry,2020-05,12749
+pantry,2020-06,12190
+pantry,2020-07,12777
+pantry,2020-08,13008
+pantry,2020-09,12054
+pantry,2020-10,13073
+pantry,2020-11,12543
+pantry,2020-12,13225
+pantry,2021-01,12636
+pantry,2021-02,11493
+pantry,2021-03,12583
+pantry,2021-04,12997
+pantry,2021-05,13767
+pantry,2021-06,12327
+pantry,2021-07,12717
+pantry,2021-08,12663
+pantry,2021-09,12540
+pantry,2021-10,13603
+pantry,2021-11,12362
+pantry,2021-12,12504
+pantry,2022-01,12287
+pantry,2022-02,11756
+pantry,2022-03,12874
+pantry,2022-04,12145
+pantry,2022-05,12787
+pantry,2022-06,11695
+pantry,2022-07,12103
+pantry,2022-08,13458
+pantry,2022-09,12704
+pantry,2022-10,12632
+pantry,2022-11,12909
+pantry,2022-12,12272
+pantry,2023-01,13426
+pantry,2023-02,11422
+pantry,2023-03,13335
+pantry,2023-04,2968
+personal care,2015-01,15170
+personal care,2015-02,14401
+personal care,2015-03,15396
+personal care,2015-04,15387
+personal care,2015-05,15773
+personal care,2015-06,14726
+personal care,2015-07,16281
+personal care,2015-08,16122
+personal care,2015-09,14773
+personal care,2015-10,15781
+personal care,2015-11,15417
+personal care,2015-12,14938
+personal care,2016-01,14669
+personal care,2016-02,14547
+personal care,2016-03,16287
+personal care,2016-04,15617
+personal care,2016-05,15327
+personal care,2016-06,14949
+personal care,2016-07,16032
+personal care,2016-08,15833
+personal care,2016-09,14951
+personal care,2016-10,15577
+personal care,2016-11,14606
+personal care,2016-12,15520
+personal care,2017-01,16555
+personal care,2017-02,14340
+personal care,2017-03,15604
+personal care,2017-04,15293
+personal care,2017-05,16203
+personal care,2017-06,15520
+personal care,2017-07,15639
+personal care,2017-08,15424
+personal care,2017-09,13957
+personal care,2017-10,16084
+personal care,2017-11,14433
+personal care,2017-12,15975
+personal care,2018-01,15719
+personal care,2018-02,13450
+personal care,2018-03,16167
+personal care,2018-04,15339
+personal care,2018-05,14515
+personal care,2018-06,15233
+personal care,2018-07,16288
+personal care,2018-08,14969
+personal care,2018-09,15649
+personal care,2018-10,16396
+personal care,2018-11,14253
+personal care,2018-12,15546
+personal care,2019-01,15524
+personal care,2019-02,15145
+personal care,2019-03,15588
+personal care,2019-04,15284
+personal care,2019-05,16028
+personal care,2019-06,14779
+personal care,2019-07,15826
+personal care,2019-08,16200
+personal care,2019-09,15152
+personal care,2019-10,15915
+personal care,2019-11,15301
+personal care,2019-12,15775
+personal care,2020-01,15767
+personal care,2020-02,13896
+personal care,2020-03,14776
+personal care,2020-04,16003
+personal care,2020-05,14809
+personal care,2020-06,15228
+personal care,2020-07,15500
+personal care,2020-08,15687
+personal care,2020-09,15181
+personal care,2020-10,15619
+personal care,2020-11,15032
+personal care,2020-12,15393
+personal care,2021-01,15474
+personal care,2021-02,14077
+personal care,2021-03,15015
+personal care,2021-04,14526
+personal care,2021-05,15204
+personal care,2021-06,14992
+personal care,2021-07,15855
+personal care,2021-08,15182
+personal care,2021-09,14843
+personal care,2021-10,15742
+personal care,2021-11,15004
+personal care,2021-12,15506
+personal care,2022-01,15055
+personal care,2022-02,13316
+personal care,2022-03,15749
+personal care,2022-04,14585
+personal care,2022-05,15860
+personal care,2022-06,15333
+personal care,2022-07,15906
+personal care,2022-08,15351
+personal care,2022-09,14458
+personal care,2022-10,15494
+personal care,2022-11,15281
+personal care,2022-12,16182
+personal care,2023-01,15126
+personal care,2023-02,14705
+personal care,2023-03,15355
+personal care,2023-04,3552
+pets,2015-01,2513
+pets,2015-02,1931
+pets,2015-03,2443
+pets,2015-04,2223
+pets,2015-05,2291
+pets,2015-06,1953
+pets,2015-07,2616
+pets,2015-08,2374
+pets,2015-09,2503
+pets,2015-10,2447
+pets,2015-11,2312
+pets,2015-12,2403
+pets,2016-01,2266
+pets,2016-02,1996
+pets,2016-03,2356
+pets,2016-04,2455
+pets,2016-05,2490
+pets,2016-06,2044
+pets,2016-07,2081
+pets,2016-08,2415
+pets,2016-09,2305
+pets,2016-10,2321
+pets,2016-11,2410
+pets,2016-12,2481
+pets,2017-01,2661
+pets,2017-02,2103
+pets,2017-03,2124
+pets,2017-04,2194
+pets,2017-05,2516
+pets,2017-06,2051
+pets,2017-07,2307
+pets,2017-08,2226
+pets,2017-09,2378
+pets,2017-10,2281
+pets,2017-11,2231
+pets,2017-12,2273
+pets,2018-01,2387
+pets,2018-02,2054
+pets,2018-03,2589
+pets,2018-04,2133
+pets,2018-05,2236
+pets,2018-06,2566
+pets,2018-07,2341
+pets,2018-08,2213
+pets,2018-09,2288
+pets,2018-10,2227
+pets,2018-11,2268
+pets,2018-12,2188
+pets,2019-01,2287
+pets,2019-02,2105
+pets,2019-03,2021
+pets,2019-04,2230
+pets,2019-05,2370
+pets,2019-06,1953
+pets,2019-07,2329
+pets,2019-08,2109
+pets,2019-09,2027
+pets,2019-10,2440
+pets,2019-11,2415
+pets,2019-12,2309
+pets,2020-01,2379
+pets,2020-02,2050
+pets,2020-03,2365
+pets,2020-04,2105
+pets,2020-05,2595
+pets,2020-06,2295
+pets,2020-07,2194
+pets,2020-08,2469
+pets,2020-09,2232
+pets,2020-10,2183
+pets,2020-11,2083
+pets,2020-12,2235
+pets,2021-01,2270
+pets,2021-02,2011
+pets,2021-03,2147
+pets,2021-04,2489
+pets,2021-05,2545
+pets,2021-06,2185
+pets,2021-07,2296
+pets,2021-08,2245
+pets,2021-09,1982
+pets,2021-10,2334
+pets,2021-11,2186
+pets,2021-12,2370
+pets,2022-01,2212
+pets,2022-02,2108
+pets,2022-03,2245
+pets,2022-04,2388
+pets,2022-05,2064
+pets,2022-06,2709
+pets,2022-07,2527
+pets,2022-08,2263
+pets,2022-09,2412
+pets,2022-10,2091
+pets,2022-11,2085
+pets,2022-12,2175
+pets,2023-01,2331
+pets,2023-02,2303
+pets,2023-03,2452
+pets,2023-04,466
+produce,2015-01,4176
+produce,2015-02,3435
+produce,2015-03,3859
+produce,2015-04,3774
+produce,2015-05,3868
+produce,2015-06,3859
+produce,2015-07,4295
+produce,2015-08,3923
+produce,2015-09,4178
+produce,2015-10,4221
+produce,2015-11,4113
+produce,2015-12,4077
+produce,2016-01,4003
+produce,2016-02,3578
+produce,2016-03,4171
+produce,2016-04,3633
+produce,2016-05,4079
+produce,2016-06,4035
+produce,2016-07,4121
+produce,2016-08,4133
+produce,2016-09,4105
+produce,2016-10,3949
+produce,2016-11,3896
+produce,2016-12,4056
+produce,2017-01,4024
+produce,2017-02,3694
+produce,2017-03,3808
+produce,2017-04,3772
+produce,2017-05,3559
+produce,2017-06,3469
+produce,2017-07,4170
+produce,2017-08,4216
+produce,2017-09,4294
+produce,2017-10,4205
+produce,2017-11,3966
+produce,2017-12,3862
+produce,2018-01,4028
+produce,2018-02,3728
+produce,2018-03,3494
+produce,2018-04,3479
+produce,2018-05,3854
+produce,2018-06,4093
+produce,2018-07,3977
+produce,2018-08,4111
+produce,2018-09,3670
+produce,2018-10,3988
+produce,2018-11,3822
+produce,2018-12,4219
+produce,2019-01,3982
+produce,2019-02,3695
+produce,2019-03,4376
+produce,2019-04,3659
+produce,2019-05,4125
+produce,2019-06,3649
+produce,2019-07,4160
+produce,2019-08,4241
+produce,2019-09,3944
+produce,2019-10,4228
+produce,2019-11,4217
+produce,2019-12,4021
+produce,2020-01,4214
+produce,2020-02,4266
+produce,2020-03,3949
+produce,2020-04,4023
+produce,2020-05,4006
+produce,2020-06,3720
+produce,2020-07,4137
+produce,2020-08,3842
+produce,2020-09,3896
+produce,2020-10,4147
+produce,2020-11,3883
+produce,2020-12,3974
+produce,2021-01,4036
+produce,2021-02,3904
+produce,2021-03,3937
+produce,2021-04,4024
+produce,2021-05,4050
+produce,2021-06,3690
+produce,2021-07,4047
+produce,2021-08,3874
+produce,2021-09,3783
+produce,2021-10,3956
+produce,2021-11,4058
+produce,2021-12,4070
+produce,2022-01,3717
+produce,2022-02,3942
+produce,2022-03,3871
+produce,2022-04,4030
+produce,2022-05,3970
+produce,2022-06,3524
+produce,2022-07,4216
+produce,2022-08,3840
+produce,2022-09,3746
+produce,2022-10,4007
+produce,2022-11,3703
+produce,2022-12,4058
+produce,2023-01,3806
+produce,2023-02,3904
+produce,2023-03,4110
+produce,2023-04,901
+snacks,2015-01,14659
+snacks,2015-02,14129
+snacks,2015-03,14881
+snacks,2015-04,14587
+snacks,2015-05,15107
+snacks,2015-06,14240
+snacks,2015-07,14744
+snacks,2015-08,14668
+snacks,2015-09,14398
+snacks,2015-10,15265
+snacks,2015-11,14468
+snacks,2015-12,14595
+snacks,2016-01,14514
+snacks,2016-02,13811
+snacks,2016-03,14959
+snacks,2016-04,14196
+snacks,2016-05,15399
+snacks,2016-06,13836
+snacks,2016-07,15296
+snacks,2016-08,15600
+snacks,2016-09,14563
+snacks,2016-10,15351
+snacks,2016-11,14650
+snacks,2016-12,14211
+snacks,2017-01,15394
+snacks,2017-02,13394
+snacks,2017-03,15280
+snacks,2017-04,15010
+snacks,2017-05,15350
+snacks,2017-06,14378
+snacks,2017-07,14529
+snacks,2017-08,15148
+snacks,2017-09,14270
+snacks,2017-10,14875
+snacks,2017-11,14645
+snacks,2017-12,14509
+snacks,2018-01,14811
+snacks,2018-02,13472
+snacks,2018-03,15228
+snacks,2018-04,14572
+snacks,2018-05,14756
+snacks,2018-06,14076
+snacks,2018-07,14165
+snacks,2018-08,15113
+snacks,2018-09,14497
+snacks,2018-10,14953
+snacks,2018-11,14266
+snacks,2018-12,14262
+snacks,2019-01,14920
+snacks,2019-02,13843
+snacks,2019-03,15602
+snacks,2019-04,14590
+snacks,2019-05,14520
+snacks,2019-06,14212
+snacks,2019-07,15375
+snacks,2019-08,14389
+snacks,2019-09,14650
+snacks,2019-10,13819
+snacks,2019-11,14860
+snacks,2019-12,15645
+snacks,2020-01,15055
+snacks,2020-02,14585
+snacks,2020-03,14853
+snacks,2020-04,15019
+snacks,2020-05,14592
+snacks,2020-06,15286
+snacks,2020-07,14592
+snacks,2020-08,14799
+snacks,2020-09,14455
+snacks,2020-10,14489
+snacks,2020-11,14402
+snacks,2020-12,14231
+snacks,2021-01,14785
+snacks,2021-02,13676
+snacks,2021-03,14679
+snacks,2021-04,14750
+snacks,2021-05,15358
+snacks,2021-06,14857
+snacks,2021-07,14835
+snacks,2021-08,14833
+snacks,2021-09,14116
+snacks,2021-10,14890
+snacks,2021-11,14703
+snacks,2021-12,14679
+snacks,2022-01,15112
+snacks,2022-02,13181
+snacks,2022-03,15422
+snacks,2022-04,14906
+snacks,2022-05,14846
+snacks,2022-06,14438
+snacks,2022-07,15039
+snacks,2022-08,14325
+snacks,2022-09,14845
+snacks,2022-10,14753
+snacks,2022-11,13966
+snacks,2022-12,14512
+snacks,2023-01,15665
+snacks,2023-02,12877
+snacks,2023-03,14949
+snacks,2023-04,3360
